@@ -1,0 +1,12 @@
+.maindiv{
+    justify-content: space-between;
+}
+
+.upperdiv{
+    display: flex;
+    background-color: rgb(209, 186, 231);
+}
+.middlediv{
+    display: flex;
+    background-color: rgb(209, 186, 231);
+}
